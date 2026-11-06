@@ -7,7 +7,7 @@
 
 ## 정본과 이 저장소 (26/11/04)
 
-- 회사 UI/UX 기준 정본은 [payworkteam/uiux-standards](https://github.com/payworkteam/uiux-standards)다. 이 가이드는 **uiux-standards v3.1.0**(커밋 `df6d11b`)의 정함 카드를 **§8**에 옮겼다. 이 가이드와 정본이 다르면 정본(§8)을 따른다.
+- 회사 UI/UX 기준 정본은 [payworkteam/uiux-standards](https://github.com/payworkteam/uiux-standards)다. 이 가이드는 **uiux-standards v4.0.0**(커밋 `b755864`, 26/11/06)의 정함 카드를 **§8**에 옮긴 **읽는 판**이다(G-018: 지켜야 하는 기준은 정본 하나). 이 가이드와 정본이 다르면 정본을 따른다.
 - 정본과 값이 달랐던 본문은 같은 날 고쳤다: 화면 좌우 20pt → 16pt(01-08 · C8), 통화 끝 카드 「AI로 요약받기」 → 「이 통화를 저장할까요? · 통화 저장하기 / 나중에」(06-02 · C9) — 모바일 편만 해당.
 - 이 저장소는 26/11/04 `seinleepaywork`에서 `payworkteam`으로 옮겼다. 옛 주소는 새 주소로 넘어간다.
 - 정본이 바뀌면 §8을 손으로 고치지 않고 다시 만든다(만든 방법: 정본 카드 md를 읽어 §8 HTML과 새김 원문 8절을 함께 생성).
